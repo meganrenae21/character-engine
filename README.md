@@ -1,2 +1,2 @@
-# character-engine
+# character-creator
 Created with CodeSandbox
